@@ -1,2 +1,5 @@
-# shiina-section
-Demo's from lab section BC
+# Lab Section BC
+
+Coding demos from section
+
+:)
