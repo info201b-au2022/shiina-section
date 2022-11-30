@@ -1,6 +1,5 @@
 # ggplot Demo
 
 Demo on:
-- UI, Server, App organization
-- Using a message output from server to UI
-- navbarPage with 2 pages
+- Ordering variables on the graph axis
+- Changing visual size (width and height) on Rmd files
