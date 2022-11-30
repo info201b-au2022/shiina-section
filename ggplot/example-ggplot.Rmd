@@ -1,0 +1,20 @@
+---
+title: "example-ggplot"
+author: "Shiina Sugioka"
+date: "11/14/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+source("example-ggplot-ordered-axis.R")
+```
+
+## R Markdown
+
+This is an example of rendering plots in html files
+
+```{r plot, fig.width = 7, fig.height = 5}
+ggp
+```
